@@ -1,4 +1,4 @@
-import { ChakraProvider, theme, ColorModeScript } from '@chakra-ui/react';
+import { ChakraProvider, theme } from '@chakra-ui/react';
 import * as ReactDOM from 'react-dom/client';
 import App from './App';
 import { ColorModeSwitcher } from './ColorModeSwitcher';

@@ -1,4 +1,4 @@
-import {VStack, HStack,Heading,Image,Text} from '@chakra-ui/react'
+import {VStack,Heading,Image,Text} from '@chakra-ui/react'
 import {Link} from 'react-router-dom'
 
 const CoinCard = ({id ,name, img, symbol, price, currencySymbol = '₹'})=>{
