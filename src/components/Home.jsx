@@ -1,7 +1,7 @@
 import { Box, Image, Text } from '@chakra-ui/react'
 import React from 'react'
 import img1 from "../assets/1.png"
-import { animate, motion } from 'framer-motion'
+import { motion } from 'framer-motion'
 
 const Home = () => {
   return (
